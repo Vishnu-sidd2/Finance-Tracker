@@ -2,7 +2,6 @@
 
 A full-stack personal finance tracker built with **Next.js 14 (App Router)**, **MongoDB**, and **Tailwind CSS**, designed to help users monitor expenses, manage budgets, and gain insight through real-time analytics.
 
-> 🔗 [Live on Vercel](https://finance-tracker-three-psi.vercel.app)
 
 ---
 
